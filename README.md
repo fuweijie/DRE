@@ -6,14 +6,14 @@ We propose a simple but efficent approch for the differentiated explanations of 
 
 ##### Running the Demo
 ###### Our code is implemented with:
-      matplotlib==3.1.3 \
-      more-itertools==8.3.0 \
-      numpy==1.18.1 \
-      pillow==7.1.2 \
-      pytorch==1.1.0 \
-      scikit-image==0.16.2 \
-      scikit-learn==0.22.1 \
-      scipy==1.4.1 \
-      torchvision==0.3.0 \
+      matplotlib==3.1.3 
+      more-itertools==8.3.0 
+      numpy==1.18.1 
+      pillow==7.1.2 
+      pytorch==1.1.0 
+      scikit-image==0.16.2 
+      scikit-learn==0.22.1 
+      scipy==1.4.1 
+      torchvision==0.3.0 
 ###### Trained models are available at https://drive.google.com/drive/folders/1t8sSK6elwalIyNfuQrw3wnds1rh3GWiF?usp=sharing
 ###### python saliency_demo.py
