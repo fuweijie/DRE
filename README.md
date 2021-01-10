@@ -19,11 +19,11 @@ We propose a simple but efficent approch for the differentiated explanations of 
 ###### python saliency_demo.py
 
 ##### Cite this:
-@ARTICLE{9316988,  author={W. {Fu} and M. {Wang} and M. {Du} and N. {Liu} and S. {Hao} and X. {Hu}},  
-journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
-title={Differentiated Explanation of Deep Neural Networks with Skewed Distributions},   
-year={2021},  
-volume={},  
-number={},  
-pages={1-1},  
-doi={10.1109/TPAMI.2021.3049784}}
+      @ARTICLE{9316988,  author={W. {Fu} and M. {Wang} and M. {Du} and N. {Liu} and S. {Hao} and X. {Hu}},  
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+      title={Differentiated Explanation of Deep Neural Networks with Skewed Distributions},   
+      year={2021},  
+      volume={},  
+      number={},  
+      pages={1-1},  
+      doi={10.1109/TPAMI.2021.3049784}}
